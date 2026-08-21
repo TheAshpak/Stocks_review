@@ -1,0 +1,12 @@
+volume gate off; 500 symbols
+   breakout scan 50/500 symbols, 782 events scored
+   breakout scan 100/500 symbols, 1632 events scored
+   breakout scan 150/500 symbols, 2530 events scored
+   breakout scan 250/500 symbols, 4203 events scored
+   breakout scan 300/500 symbols, 5047 events scored
+   breakout scan 350/500 symbols, 5911 events scored
+   breakout scan 400/500 symbols, 6653 events scored
+   breakout scan 450/500 symbols, 7382 events scored
+   breakout scan 500/500 symbols, 8165 events scored
+   breakout events: 8165 scored from 11308 candidate dates (3143 gated out, 0 re-detect mismatch)
+saved 8165 events in 18.1 min
