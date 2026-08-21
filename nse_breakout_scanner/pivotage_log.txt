@@ -1,0 +1,1 @@
+collecting with min_pivot_age=0 over 500 symbols
